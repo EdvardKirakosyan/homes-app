@@ -5,6 +5,6 @@ export interface HousingLocation {
   state: string
   photo: string
   availableUnits: number
-  iwfi: boolean
+  wifi: boolean
   laundry: boolean
 }
